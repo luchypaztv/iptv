@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Latina 
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 #EXTINF:-1,TN
 https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 #EXTINF:-1,La Nación
