@@ -1,4 +1,5 @@
 #EXTM3U
-#EXTINF:-1,La Nación
 #EXTINF:-1,TN
 https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
+#EXTINF:-1,La Nación
+http://192.141.95.253:8000/play/a01m
