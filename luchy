@@ -19,4 +19,5 @@ http://192.141.95.253:8000/play/a011
 http://192.141.95.253:8000/play/a008
 #EXTINF:-1,Telefe 
 http://192.141.95.253:8000/play/a02t 
-#
+#EXTINF:-1,eltrece
+http://192.141.95.253:8000/play/a02u
