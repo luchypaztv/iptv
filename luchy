@@ -57,4 +57,9 @@ http://170.233.192.234:8112/play/004
 http://154.198.59.1:8000/play/a03i
 #EXTINF:-1,Telesur
 http://38.41.8.1:8000/play/a03l
-#EXTINF:-1,
+#EXTINF:-1,Telemundo
+http://186.148.184.65:8000/play/a006
+#EXTINF:-1,RAI
+http://200.59.188.3:8000/play/a0hk
+#EXTINF:-1,BBC News
+http://200.125.170.122:8000/play/a0d8
