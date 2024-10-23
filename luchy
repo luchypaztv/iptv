@@ -31,3 +31,10 @@ http://38.41.8.1:8000/play/a0ca
 http://192.141.95.253:8000/play/a02h 
 #EXTINF:-1,Paka Paka 
 http://181.78.27.128:8000/play/a04x/index.m3u8
+#EXTINF:-1,Disney Jr.
+http://154.198.59.1:8000/play/a00z
+#EXTINF:-1,Cartoon Network
+http://200.115.120.1:8000/play/ca002/index.m3u8
+#EXTINF:-1,Disney Channel
+http://200.115.120.1:8000/play/ca012/index.m3u8
+#EXTINF:-1,
