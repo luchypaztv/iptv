@@ -79,3 +79,5 @@ http://154.198.57.34:8000/play/31
 http://181.78.77.118:8000/play/a0r7/index.m3u8
 #EXTINF:-1,TNT
 http://45.175.139.194:8000/play/32
+#EXTINF:-1,Sony Movies
+http://181.233.168.3:8282/play/a02h
