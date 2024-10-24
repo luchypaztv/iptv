@@ -165,4 +165,10 @@ http://192.141.95.253:8000/play/a02n
 http://38.41.8.1:8000/play/a04t
 #EXTINF:-1,Quiero Musica
 http://192.141.95.253:8000/play/a02a
+#EXTINF:-1,Las Estrellas
+http://154.198.57.34:8000/play/58
+#EXTINF:-1,MTV 00's
+http://200.59.188.3:8000/play/a014
+#EXTINF:-1,HTV
+http://154.198.57.34:8000/play/61
 #EXTINF:-1,
