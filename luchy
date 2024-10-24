@@ -115,6 +115,8 @@ http://192.141.95.253:8000/play/a01s
 http://216.155.91.47:8000/play/a0b9/index.m3u8
 #EXTINF:-1,Europa Europa
 http://190.14.249.39:8000/play/a03g
+#EXTINF:-1,Canal 5 México
+http://181.78.105.146:2000/play/a038/index.m3u8
 #EXTINF:-1,HBO
 http://45.71.254.1:8000/play/a06p/index.m3u8
 #EXTINF:-1,HBO 2
