@@ -5,12 +5,8 @@ https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 #EXTINF:-1,TierraMia 
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
-#EXTINF:-1,TN
-https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 #EXTINF:-1,La Nación
 http://192.141.95.253:8000/play/a01m
-#EXTINF:-1,A24
-http://192.141.95.253:8000/play/a01i
 #EXTINF:-1,C5N
 http://181.13.173.86:8000/play/a01p/index.m3u8
 #EXTINF:-1,elnueve 
