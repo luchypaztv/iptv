@@ -16,9 +16,9 @@ http://192.141.95.253:8000/play/a008
 #EXTINF:-1,Telefe 
 http://181.209.95.29:8000/play/a06c/index.m3u8
 #EXTINF:-1,eltrece
-http://181.78.27.128:8000/play/a05y/index.m3u8
+http://181.209.95.29:8000/play/a06d/index.m3u8
 #EXTINF:-1,América TV
-http://45.5.151.151:8000/play/a0c7/index.m3u8
+http://148.222.228.3:9000/play/a04l/index.m3u8
 #EXTINF:-1,Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1,Canal 41 Bayres
@@ -112,7 +112,7 @@ http://154.198.57.34:8000/play/30
 #EXTINF:-1,Paramount Network
 http://179.1.33.2:4000/play/a115
 #EXTINF:-1,Volver
-http://192.141.95.253:8000/play/a01s
+http://216.244.200.34:8000/play/a03r/index.m3u8
 #EXTINF:-1,Lifetime
 http://216.155.91.47:8000/play/a0b9/index.m3u8
 #EXTINF:-1,Europa Europa
