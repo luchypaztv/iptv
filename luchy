@@ -101,7 +101,7 @@ http://171.22.165.241:8888/play/a0ku
 http://38.41.8.1:8000/play/a071
 #EXTINF:-1,Adult Swim
 http://190.107.20.43:6004/play/a02a
-#EXTINF:-1,Galaxy Channel (2025)
+#EXTINF:-1,Toonizaki
 https://mitv.zplay.cl/ToonamiChannelLA/index.m3u8
 #EXTINF:-1,A&E
 http://181.209.159.245:8000/play/a038/index.m3u8
@@ -114,7 +114,7 @@ http://179.1.33.2:4000/play/a115
 #EXTINF:-1,Volver
 http://216.244.200.34:8000/play/a03r/index.m3u8
 #EXTINF:-1,Lifetime
-http://216.155.91.47:8000/play/a0b9/index.m3u8
+http://38.41.8.1:8000/play/a056
 #EXTINF:-1,Europa Europa
 http://190.14.249.39:8000/play/a03g
 #EXTINF:-1,Canal 5 México
