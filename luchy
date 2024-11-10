@@ -148,7 +148,7 @@ http://38.41.8.1:8000/play/a017
 #EXTINF:-1,Animal Planet
 http://38.41.8.1:8000/play/a07m
 #EXTINF:-1,Ciudad Magazine
-http://192.141.95.253:8000/play/a024
+http://181.209.95.29:8000/play/a02h/index.m3u8
 #EXTINF:-1,elgourmet
 http://38.41.8.1:8000/play/a0da
 #EXTINF:-1,Mas Chic
@@ -158,28 +158,28 @@ http://192.141.95.253:8000/play/a023
 #EXTINF:-1,TLC
 http://154.198.57.34:8000/play/55
 #EXTINF:-1,Rural
-http://192.141.95.253:8000/play/a022
+http://181.209.95.29:8000/play/a02f/index.m3u8
 #EXTINF:-1,Food Network
-http://154.198.57.34:8000/play/49
+http://38.41.8.1:8000/play/a02f
 #EXTINF:-1,Star TVE
 http://179.1.33.2:4000/play/a117
 #EXTINF:-1,Film and Arts
-http://192.141.95.253:8000/play/a02n
+http://45.189.148.254:8000/play/a027
 #EXTINF:-1,MTV
 http://38.41.8.1:8000/play/a04t
 #EXTINF:-1,Quiero Musica
-http://192.141.95.253:8000/play/a02a
+http://181.209.95.29:8000/play/a02n/index.m3u8
 #EXTINF:-1,Las Estrellas
 http://154.198.57.34:8000/play/58
 #EXTINF:-1,MTV 00's
-http://200.59.188.3:8000/play/a014
+http://38.123.205.14:8000/play/a0b6/index.m3u8
 #EXTINF:-1,HTV
 http://154.198.57.34:8000/play/61
 #EXTINF:-1,MTV Hits
-http://45.4.85.213:58001/play/a00z
+http://45.5.119.96:9000/play/a02z/index.m3u8
 #EXTINF:-1,NickMusic
 http://45.5.117.183:9000/play/a0lt/index.m3u8
 #EXTINF:-1,BitMe
 http://38.44.109.41:8003/play/a00f
 #EXTINF:-1,Disney XD USA
-https://list.iptvcat.com/my_list/s/2df88f025619f4c200db1280792fccca.m3u8
+
