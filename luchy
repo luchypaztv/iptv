@@ -8,7 +8,7 @@ https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 #EXTINF:-1,C5N
 http://181.13.173.86:8000/play/a01p/index.m3u8
 #EXTINF:-1,elnueve 
-http://192.141.95.253:8000/play/a011
+http://181.13.173.86:8000/play/a0ae/index.m3u8
 #EXTINF:-1,TVP 
 http://192.141.95.253:8000/play/a008
 #EXTINF:-1,Telefe 
