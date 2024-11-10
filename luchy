@@ -24,7 +24,7 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1,ESPN Premium 
 http://38.41.8.1:8000/play/a0ca 
 #EXTINF:-1,TNT Sports 
-http://192.141.95.253:8000/play/a02h 
+ http://38.41.8.1:8000/play/a0bn
 #EXTINF:-1,Paka Paka 
 http://181.78.27.128:8000/play/a04x/index.m3u8
 #EXTINF:-1,Disney Jr.
