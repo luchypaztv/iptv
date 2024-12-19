@@ -108,10 +108,8 @@ http://38.41.8.1:8000/play/a05x
 http://38.41.8.1:8000/play/a071
 #EXTINF:-1,Adult Swim
 http://190.107.20.43:6004/play/a02a
-#EXTINF:-1,Toonizaki
-https://mitv.zplay.cl/ToonamiChannelLA/index.m3u8
 #EXTINF:-1,A&E
-http://181.209.159.245:8000/play/a038/index.m3u8
+http://38.41.8.1:8000/play/a0go
 #EXTINF:-1,Comedy Central
 http://45.169.163.83:8000/play/a18m
 #EXTINF:-1,TNT Novelas
