@@ -139,15 +139,15 @@ http://38.41.8.1:8000/play/a05j
 #EXTINF:-1,HBO Mundi
 http://45.4.1.202:8000/play/a10m/index.m3u8
 #EXTINF:-1,Universal Premiere
-http://45.5.117.182:8000/play/a0ig/index.m3u8
+http://38.41.8.1:8000/play/a05p
 #EXTINF:-1,Universal Cinema
-http://38.7.31.247:8000/play/a0c9/index.m3u8
+http://181.78.18.137:9000/play/a02a
 #EXTINF:-1,Universal Comedy
-http://190.61.117.35:8000/play/a04z
+http://181.78.23.26:45000/play/a015
 #EXTINF:-1,Universal Crime
 http://45.189.148.47:8000/play/a03x
 #EXTINF:-1,Universal Reality
-http://190.61.117.35:8000/play/a04x
+http://38.137.217.169:8000/play/a05w
 #EXTINF:-1,Natgeo
 http://45.175.139.194:8000/play/52
 #EXTINF:-1,Discovery
