@@ -38,6 +38,8 @@ http://181.78.27.128:8000/play/a04x/index.m3u8
 http://tv-cool.com:25461/CQCx7jFygUps/A49pPXxQ35Sh/133888
 #EXTINF:-1,Cartoon Network
 http://181.78.14.26:8000/play/a01e
+#EXTINF:-1,Cartoon Network HD
+http://38.41.8.1:8000/play/a01w
 #EXTINF:-1,Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/playlist.m3u8
 #EXTINF:-1,Kanade TV
