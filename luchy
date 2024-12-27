@@ -108,6 +108,8 @@ http://38.41.8.1:8000/play/a05x
 http://38.41.8.1:8000/play/a071
 #EXTINF:-1,Adult Swim
 http://190.107.20.43:6004/play/a02a
+#EXTINF:-1,Adult Swim México
+http://138.118.105.190:8000/play/a0g1
 #EXTINF:-1,A&E
 http://38.41.8.1:8000/play/a0go
 #EXTINF:-1,Comedy Central
